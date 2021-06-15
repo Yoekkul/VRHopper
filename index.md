@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## VR-Hopper
+VR-Hopper is a tool which aims to give greater immersion when tuning Grasshopper graphs.
 
-You can use the [editor on GitHub](https://github.com/Yoekkul/VRHopper/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Given a grasshopper file we can see and manipulate the parametrically generated 3d model, together with its graph in VR. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[https://vimeo.com/563099411](https://vimeo.com/563099411)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yoekkul/VRHopper/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+When interacting with sliders in VR the model gets updated in real-time. Rudimentary gestures can be mapped to specific slider adjustments.
